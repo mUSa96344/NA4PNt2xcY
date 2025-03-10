@@ -9,7 +9,6 @@ __mocks__
 .log
 Makefile
 Procfile
-app.json
 crowdin.yml
 build
 docker-compose.yml
