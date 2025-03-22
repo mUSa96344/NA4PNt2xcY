@@ -10,7 +10,6 @@ exclude_paths:
   - src/database/sqlite/sqlite3.c
   - src/ml/dlib/**
   - src/web/server/h2o/libh2o/**
-  - build/**
   - build_external/**
   - packaging/**
   - src/aclk/mqtt_websockets/**
